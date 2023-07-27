@@ -1,7 +1,7 @@
 // src/App.js
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { fetchRandomGreeting } from './redux/action';
+import fetchRandomGreeting from './redux/action';
 import Greeting from './components/Greeting';
 
 const App = () => {
