@@ -29,9 +29,11 @@
 
 # 📖 [Hello-react-frontend] <a name="about-project"></a>
 
->  This app is the front-end for fetcing API that generates random quotes and displaying it. It is built with react and redux. It is a part of the Hello-rails-react project. The frontend is built with React.
+>  This app is the front-end for fetching API that generates random quotes and displaying it. It is built with react and redux. It is a part of the Hello-rails-react project. The frontend is built with React.
 
-**[Hello_react_frontend]]**
+
+**[Backend-PR](https://github.com/Santosh-Konappanavar/hello-rails-back-end/pull/1)**
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
